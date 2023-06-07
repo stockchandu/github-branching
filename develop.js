@@ -7,4 +7,4 @@ const sum = (a, b) => {
 
 }
 
-sum(2, 4)
+sum(2, 4 , 6)
